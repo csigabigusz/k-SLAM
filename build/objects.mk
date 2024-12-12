@@ -5,4 +5,5 @@
 USER_OBJS :=
 
 LIBS := -lboost_program_options -lboost_serialization
+BOOST = false
 
